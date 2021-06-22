@@ -14,6 +14,12 @@ Data :
 3. datanilai.csv (Data Nilai Dosen/Penilaian Manual)
 4. jawabanprepocessing.npy (Data Hasil Preprocessing Pada Data Jawaban)
 
+
+
+
+
+
+
 Hasil rata-rata perbandingan kedua algoritma :
 ![testplot2](https://user-images.githubusercontent.com/28834570/122913797-1b2cd980-d384-11eb-9424-6bc65d3e87e0.png)
 
