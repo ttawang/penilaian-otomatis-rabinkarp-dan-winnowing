@@ -15,6 +15,9 @@ Data :
 4. jawabanprepocessing.npy (Data Hasil Preprocessing Pada Data Jawaban)
 
 Hasil rata-rata perbandingan kedua algoritma :
+![testplot2](https://user-images.githubusercontent.com/28834570/122913797-1b2cd980-d384-11eb-9424-6bc65d3e87e0.png)
+
+Hasil rata-rata perbandingan setiap penilaian pada masing-masing soal :
 ![testplot](https://user-images.githubusercontent.com/28834570/122913210-5f6baa00-d383-11eb-9c8f-a3fd03ee7279.png)
 
 Hasil rata-rata perbandingan jawaban soal no 1 :
